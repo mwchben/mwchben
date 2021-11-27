@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Mwangi Benjamin
+### Learner (Self)
 
 - 👨🏾‍💻 I’m currently learning webDev with Js (React), CSS (Tailwind & Bootstrap) and HTML5 ...
 - 📫 Mail: kneekelly123@gmail.com
