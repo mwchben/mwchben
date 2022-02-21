@@ -1,8 +1,12 @@
-## Hi there 👋
-### Learner (Self)
+### Hi 👋
 
-- 👨🏾‍💻 I’m currently learning webDev with Js (React), CSS frameworks i.e Tailwind & Bootstrap... also Learning Solidity and Java
-- Trying to add Laravel into the mix this year 👀
-- 📫 Mail: kneekelly123@gmail.com
-- 😄 Profession: Student
-- ⚡ Fun fact: None😅
+#### learning:
+- Js (React),
+- CSS frameworks i.e Tailwind & Bootstrap
+- Solidity
+- Java
+- Laravel 
+- 
+#### Contact
+- Mail: kneekelly123@gmail.com
+- [Twitter Handele](https://twitter.com/Qhabe_4).
