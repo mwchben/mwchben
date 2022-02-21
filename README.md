@@ -9,4 +9,4 @@
 - 
 #### Contact
 - Mail: kneekelly123@gmail.com
-- [Twitter Handele](https://twitter.com/Qhabe_4).
+- [Twitter Handle](https://twitter.com/Qhabe_4).
