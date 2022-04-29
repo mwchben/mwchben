@@ -1,8 +1,8 @@
 ### Hi 👋
 #### learning:
-- Js (React),
+- Js, TypeScript,
 - CSS frameworks i.e Tailwind & Bootstrap,
-- Solidity,
+- Solidity (Blockchain),
 - Java (Android),
 - Laravel.
 #### Contact
