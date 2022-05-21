@@ -1,10 +1,10 @@
 ### Hi 👋
 #### 📎learning:
-✔ Js, TypeScript,
+✔ Js, TypeScript ▶ (ReactJS)
 ✔ CSS frameworks i.e Tailwind & Bootstrap,
-✔ Solidity (Blockchain),
+✔ Solidity,
 ✔ Java (Android),
-✔ Laravel.
+✔ PHP (Laravel).
 #### 📎Contact
 📌 kneekelly123@gmail.com,
 📌 [Twitter Handle](https://twitter.com/Qhabe_4).
