@@ -12,4 +12,4 @@ Welcome to this enthusiastic guy, many ideas, a couple of unfinished projects & 
 #### 🌐 Find me via:
 
 - Mail ~ benjamwa05@gmail.com, 
-- Twitter ~ [Twitter Handle](https://twitter.com/Qhabe_4).
+- X ~ [X Handle](https://twitter.com/Qhabe_4).
