@@ -4,10 +4,10 @@ Welcome to this enthusiastic guy, many ideas, a couple of unfinished projects & 
 
 #### 💻 Progressing in:
 
-- WebApps (ReactJS, NodeJS, Laravel, Django) 
-- Web Design (UI via figma, tailwind, bootstrap, Vanilla) 
+- WebApps (ReactJS, NodeJS, Laravel, Flask) 
+- Web Design (UI via figma, CSS3, bootstrap, Vanilla) 
 - Blockchain technology (Solidity) 
-- Mobile Development (Android) 
+- Mobile Development (Kotlin) 
 
 #### 🌐 Find me via:
 
